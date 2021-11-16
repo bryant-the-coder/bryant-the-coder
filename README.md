@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @bryant-the-coder
-- 👀 I’m interested in IT industry and coding
-- 🌱 I’m currently learning HTML, SCSS / CSS and JS
-- 💞️ I’m looking to collaborate on (i really don't know yet as i am still a kid)
-- 📫 How to reach me ask me questions in bryantfoo99@gmail.com
-
-
+Name: Bryant Foo / BryantTheCoder
+Knowledge on coding: HTML / SCSS / CSS
+Currently learning: JS / TS / Lua
+Making my own bookmark page as my first starting project. Making NvHack a fully configure 
+![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bryant-the-coder)
