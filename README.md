@@ -9,7 +9,7 @@ I am a 14 year old schooling kid. I learn coding during my free time as it is in
 ---
 
 ### Projects
-- [My Simple Startpage](https://github.com/bryant-the-coder/startpage)
+- [My Simple Startpage](https://github.com/bryant-the-coder/myStartpage)
 - [My Generator for web development](https://github.com/bryant-the-coder/generator-html-scss-js)
 
 
