@@ -1,5 +1,5 @@
 # Hi, My name is Bryant Foo. 👋👋👋
-I am a 15 year old schooling kid. I learn coding during my free time as it is interesting and a passion of mine. I am planning to go to the United States to proceed my studies.
+I am a 15 year old schooling kid. I learn coding during my free time as it is interesting and a passion of mine. I am planning to go to overseas to proceed my studies.
 
 ### Languages: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
