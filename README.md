@@ -1,6 +1,6 @@
 # Hi, My name is Bryant. 👋👋👋
 
-I am a 15 year old schooling kid. I learn coding during my free time as it is interesting and a passion of mine. I am planning to go to overseas to proceed my studies.
+I am a 19 year old schooling kid. I learn coding during my free time as it is interesting and a passion of mine. I am planning to go to overseas to proceed my studies.
 
 ### Languages:
 
